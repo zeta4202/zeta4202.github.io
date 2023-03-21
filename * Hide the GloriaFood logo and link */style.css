@@ -1,0 +1,8 @@
+/* Hide the GloriaFood logo and link */
+.gf-logo {
+  display: none !important;
+}
+
+.gf-signature {
+  display: none !important;
+}
